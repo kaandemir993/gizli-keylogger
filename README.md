@@ -1,1 +1,1 @@
-# gizli-keylogger
+Yalnızca 10 av tespiti ile çok gizli kalıcı sağlam bir keylogger. Klavyeden basılan tüm tuşları kaydeden ve ekran görüntüsü alan , şifreli kayıt defteri eklentisi ile yüksek kalıcılık sağlayan ve logları rastgele klasörlerde şifreli şekilde bir dat dosyasının içinde kaydeden ve 5dk aralıklarla mail gonderen profosyonel bir keylogger . Kodları pyw olarak kaydedip pyinstaller ile exe yaparken noconsole yazıp yaparsanız hiçbir konsol açılmayacaktır arka planda son derece gizli çalıaşacaktır.
